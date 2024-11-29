@@ -1,2 +1,2 @@
 # bookbot
-Woah.. these books have bots
+BookBot is my first project!
