@@ -1,5 +1,3 @@
-
-
 def main():
     with open("books/frankenstein.txt") as f:
         file_contents = f.read()
@@ -12,8 +10,7 @@ def main():
         for dict in character_count:
             print(f"The '{dict["key"]}' character was found {dict["value"]} times")
         print("--- End report ---")
-def sort_on(dict):
-    return dict["value"]
+
 def get_word_count(text):
     words = text.split()
     count = 0
