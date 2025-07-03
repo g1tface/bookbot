@@ -1,2 +1,3 @@
 # bookbot
-These books that have bots that have books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
